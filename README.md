@@ -1,4 +1,4 @@
-# KOSUKE SSV
+# SSV GMOD
 
 ## Prérequis
 
